@@ -1,4 +1,4 @@
 # samiahmed
 this is my first git repository 
 <br>
-Author : Sami ahmed
+Author : Sami Ahmed
